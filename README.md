@@ -1,7 +1,5 @@
 
 
----
-
 # 🎧 Spotify Tracks Analysis
 
 **Exploring the Science Behind Music Popularity with Data & Rhythm**
@@ -102,20 +100,19 @@ Explored distributions of major attributes such as **popularity**, **energy**, a
 
 ---
 
+## 🎨 Canva Presentation
+
+Access the project presentation designed in Canva here 👇
+
+🔗 **[View on Canva](https://www.canva.com/design/DAG05Ud3ipo/ntGzZYhJkjoP_LoCNt4bDA/edit?utm_content=DAG05Ud3ipo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
+---
+
 ## 💡 Learnings & Future Work
 
 * Extend analysis using **machine learning** for hit prediction models
 * Cluster songs based on **mood and genre similarity**
 * Deploy **interactive dashboards** for real-time exploration of Spotify trends
-
----
-
-## Made By
-
-**Dipanjan Halder**
-*2nd Year B.Tech, GCECT Kolkata*
-**Team:** DataMinds
-📍 *Kolkata, India*
 
 ---
 
@@ -125,4 +122,5 @@ This project combines **music intelligence** with **data storytelling** — deco
 
 💫 *“Great music feels effortless — but behind every hit lies the rhythm of data.”*
 
+---
 
